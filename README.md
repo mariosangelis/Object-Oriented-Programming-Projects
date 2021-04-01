@@ -1,6 +1,6 @@
 # Object-Oriented-Programming
 
-@Project1:
+# Project1:
 Trie data structure implementation. (in Java)
 
 Project2
