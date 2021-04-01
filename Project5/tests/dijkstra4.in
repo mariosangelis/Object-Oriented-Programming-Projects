@@ -1,0 +1,46 @@
+digraph
+av Stephani_Plunk 1840
+av Mary_Franks 1333
+av Heather_Mills 1689
+av Donna_Hesse 1695
+av Jennifer_Moore 1850
+av Samantha_Bocchi 1639
+av Mary_Jastrebski 1038
+av Lois_Patterson 1034
+av Brandy_Motley 1956
+av Nancy_Patterson 1178
+av Julie_Norton 1192
+ae Stephani_Plunk 1840 Mary_Franks 1333 7
+ae Stephani_Plunk 1840 Donna_Hesse 1695 6
+ae Mary_Franks 1333 Samantha_Bocchi 1639 4
+ae Mary_Franks 1333 Mary_Jastrebski 1038 10
+ae Heather_Mills 1689 Jennifer_Moore 1850 9
+ae Heather_Mills 1689 Mary_Jastrebski 1038 6
+ae Donna_Hesse 1695 Stephani_Plunk 1840 5
+ae Donna_Hesse 1695 Mary_Jastrebski 1038 4
+ae Jennifer_Moore 1850 Donna_Hesse 1695 7
+ae Jennifer_Moore 1850 Mary_Jastrebski 1038 10
+ae Samantha_Bocchi 1639 Jennifer_Moore 1850 5
+ae Samantha_Bocchi 1639 Lois_Patterson 1034 9
+ae Mary_Jastrebski 1038 Nancy_Patterson 1178 2
+ae Mary_Jastrebski 1038 Donna_Hesse 1695 6
+ae Lois_Patterson 1034 Jennifer_Moore 1850 3
+ae Lois_Patterson 1034 Samantha_Bocchi 1639 6
+ae Brandy_Motley 1956 Heather_Mills 1689 2
+ae Brandy_Motley 1956 Mary_Jastrebski 1038 4
+ae Nancy_Patterson 1178 Jennifer_Moore 1850 2
+ae Nancy_Patterson 1178 Mary_Jastrebski 1038 10
+ae Julie_Norton 1192 Mary_Jastrebski 1038 7
+ae Julie_Norton 1192 Lois_Patterson 1034 5
+dijkstra Heather_Mills 1689 Julie_Norton 1192
+dijkstra Mary_Jastrebski 1038 Lois_Patterson 1034
+dijkstra Mary_Jastrebski 1038 Nancy_Patterson 1178
+dijkstra Julie_Norton 1192 Mary_Jastrebski 1038
+dijkstra Nancy_Patterson 1178 Mary_Franks 1333
+dijkstra Heather_Mills 1689 Nancy_Patterson 1178
+dijkstra Stephani_Plunk 1840 Mary_Franks 1333
+dijkstra Nancy_Patterson 1178 Jennifer_Moore 1850
+dijkstra Lois_Patterson 1034 Mary_Jastrebski 1038
+dijkstra Donna_Hesse 1695 Brandy_Motley 1956
+# dot dijkstra4
+q 

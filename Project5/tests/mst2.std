@@ -1,0 +1,142 @@
+av Paula OK
+av Rita OK
+av Sonja OK
+av Melissa OK
+av Joyce OK
+av Lisa OK
+av Dolores OK
+av Kimberly OK
+av Carmen OK
+av Barbara OK
+av Maggie OK
+av Krista OK
+av Abby OK
+av Christina OK
+av Terry OK
+av Gina OK
+av Joanne OK
+av Lydia OK
+av Alexis OK
+av Jessica OK
+av Margaret OK
+av Leigh OK
+av Anna OK
+av Linda OK
+av Beverly OK
+av Cathy OK
+av Christine OK
+av Mary OK
+av Crystal OK
+av Janice OK
+ae Paula Joyce OK
+ae Paula Lisa OK
+ae Paula Dolores OK
+ae Rita Melissa OK
+ae Rita Joyce OK
+ae Rita Dolores OK
+ae Sonja Carmen OK
+ae Sonja Joyce OK
+ae Sonja Dolores OK
+ae Melissa Rita NOK
+ae Melissa Joyce OK
+ae Melissa Lisa OK
+ae Joyce Melissa NOK
+ae Joyce Lisa OK
+ae Lisa Sonja OK
+ae Lisa Kimberly OK
+ae Dolores Carmen OK
+ae Dolores Barbara OK
+ae Kimberly Carmen OK
+ae Kimberly Barbara OK
+ae Kimberly Maggie OK
+ae Carmen Maggie OK
+ae Carmen Lisa OK
+ae Carmen Kimberly NOK
+ae Barbara Krista OK
+ae Barbara Abby OK
+ae Barbara Dolores NOK
+ae Maggie Abby OK
+ae Maggie Kimberly NOK
+ae Krista Carmen OK
+ae Krista Maggie OK
+ae Krista Abby OK
+ae Abby Barbara NOK
+ae Abby Krista NOK
+ae Abby Terry OK
+ae Christina Maggie OK
+ae Christina Krista OK
+ae Christina Gina OK
+ae Terry Joanne OK
+ae Terry Krista OK
+ae Terry Gina OK
+ae Gina Lydia OK
+ae Gina Alexis OK
+ae Gina Christina NOK
+ae Joanne Alexis OK
+ae Joanne Gina OK
+ae Lydia Joanne OK
+ae Lydia Alexis OK
+ae Alexis Joanne NOK
+ae Alexis Jessica OK
+ae Alexis Leigh OK
+ae Jessica Lydia OK
+ae Jessica Margaret OK
+ae Jessica Anna OK
+ae Margaret Lydia OK
+ae Margaret Leigh OK
+ae Margaret Linda OK
+ae Leigh Margaret NOK
+ae Leigh Anna OK
+ae Leigh Linda OK
+ae Anna Jessica NOK
+ae Anna Linda OK
+ae Linda Beverly OK
+ae Linda Cathy OK
+ae Linda Margaret NOK
+ae Beverly Christine OK
+ae Beverly Mary OK
+ae Cathy Beverly OK
+ae Cathy Anna OK
+ae Cathy Linda NOK
+ae Christine Beverly NOK
+ae Christine Mary OK
+ae Christine Crystal OK
+ae Mary Beverly NOK
+ae Mary Christine NOK
+ae Mary Linda OK
+ae Crystal Beverly OK
+ae Crystal Anna OK
+ae Janice Cathy OK
+ae Janice Crystal OK
+
+--- Min Spanning Tree ---
+Paula -- Joyce (2)
+Paula -- Lisa (3)
+Paula -- Dolores (4)
+Rita -- Melissa (5)
+Rita -- Joyce (6)
+Sonja -- Carmen (8)
+Sonja -- Joyce (9)
+Lisa -- Kimberly (17)
+Dolores -- Barbara (19)
+Kimberly -- Maggie (22)
+Barbara -- Krista (26)
+Barbara -- Abby (27)
+Abby -- Terry (36)
+Maggie -- Christina (37)
+Christina -- Gina (39)
+Terry -- Joanne (40)
+Gina -- Lydia (43)
+Gina -- Alexis (44)
+Alexis -- Jessica (51)
+Alexis -- Leigh (52)
+Jessica -- Margaret (54)
+Jessica -- Anna (55)
+Margaret -- Linda (58)
+Linda -- Beverly (64)
+Linda -- Cathy (65)
+Beverly -- Christine (67)
+Beverly -- Mary (68)
+Christine -- Crystal (74)
+Cathy -- Janice (80)
+MST Cost: 1075

@@ -1,0 +1,183 @@
+graph
+av Kathleen_Maxwell 4421
+av Ada_Wachter 2847
+av Lana_Lee 3045
+av Anna_Deer 4591
+av Guadalupe_Price 1607
+av Susan_Simpson 3132
+av Carolyn_Williams 2900
+av Susan_Greene 3916
+av Lillian_Ryan 4753
+av Lorraine_Amadon 1187
+av Deborah_Mayher 2390
+av Lori_Carr 2217
+av Rosalba_Ramos 4048
+av Tina_Holcomb 1619
+av Tashia_Martin 1026
+av Yolanda_Diez 3750
+av Mary_Rost 3864
+av Rosalie_Holder 1620
+av Elizabeth_Cobb 3799
+av Cathy_Andrews 4478
+av Nancy_Moses 1009
+av Pamela_Hardy 2218
+av Colleen_Calvo 3667
+av Carol_Dubay 2770
+av Patricia_Fletcher 1599
+av Susan_Fountain 1071
+av Valda_James 4868
+av Lila_Steele 2440
+av Jennifer_Harris 3407
+av Althea_Pike 3892
+av Peggy_Ramsey 1181
+av Susan_Teel 1779
+av Ruth_Littman 3588
+av Linda_Wenzel 4320
+av Barbara_Ayala 2690
+av Allison_Pitts 2349
+av Ora_Williams 2976
+av Sarah_Shotwell 2624
+av Patty_Swaney 2777
+av Lillian_Smart 2487
+ae Kathleen_Maxwell 4421 Anna_Deer 4591 2
+ae Kathleen_Maxwell 4421 Guadalupe_Price 1607 3
+ae Kathleen_Maxwell 4421 Susan_Simpson 3132 4
+ae Kathleen_Maxwell 4421 Carolyn_Williams 2900 5
+ae Ada_Wachter 2847 Anna_Deer 4591 6
+ae Ada_Wachter 2847 Guadalupe_Price 1607 7
+ae Ada_Wachter 2847 Susan_Simpson 3132 8
+ae Ada_Wachter 2847 Carolyn_Williams 2900 9
+ae Lana_Lee 3045 Anna_Deer 4591 10
+ae Lana_Lee 3045 Susan_Simpson 3132 11
+ae Lana_Lee 3045 Carolyn_Williams 2900 12
+ae Lana_Lee 3045 Susan_Greene 3916 13
+ae Anna_Deer 4591 Ada_Wachter 2847 14
+ae Anna_Deer 4591 Lana_Lee 3045 15
+ae Anna_Deer 4591 Guadalupe_Price 1607 16
+ae Guadalupe_Price 1607 Lana_Lee 3045 17
+ae Guadalupe_Price 1607 Susan_Simpson 3132 18
+ae Guadalupe_Price 1607 Carolyn_Williams 2900 19
+ae Susan_Simpson 3132 Lillian_Ryan 4753 20
+ae Susan_Simpson 3132 Guadalupe_Price 1607 21
+ae Susan_Simpson 3132 Carolyn_Williams 2900 22
+ae Susan_Simpson 3132 Susan_Greene 3916 23
+ae Carolyn_Williams 2900 Lillian_Ryan 4753 24
+ae Carolyn_Williams 2900 Lorraine_Amadon 1187 25
+ae Carolyn_Williams 2900 Susan_Simpson 3132 26
+ae Susan_Greene 3916 Lorraine_Amadon 1187 27
+ae Susan_Greene 3916 Deborah_Mayher 2390 28
+ae Susan_Greene 3916 Guadalupe_Price 1607 29
+ae Lillian_Ryan 4753 Lorraine_Amadon 1187 30
+ae Lillian_Ryan 4753 Deborah_Mayher 2390 31
+ae Lillian_Ryan 4753 Susan_Simpson 3132 32
+ae Lillian_Ryan 4753 Susan_Greene 3916 33
+ae Lorraine_Amadon 1187 Lillian_Ryan 4753 34
+ae Lorraine_Amadon 1187 Lori_Carr 2217 35
+ae Lorraine_Amadon 1187 Carolyn_Williams 2900 36
+ae Lorraine_Amadon 1187 Susan_Greene 3916 37
+ae Deborah_Mayher 2390 Lorraine_Amadon 1187 38
+ae Deborah_Mayher 2390 Lori_Carr 2217 39
+ae Deborah_Mayher 2390 Susan_Greene 3916 40
+ae Lori_Carr 2217 Lorraine_Amadon 1187 41
+ae Lori_Carr 2217 Deborah_Mayher 2390 42
+ae Lori_Carr 2217 Tina_Holcomb 1619 43
+ae Rosalba_Ramos 4048 Deborah_Mayher 2390 44
+ae Rosalba_Ramos 4048 Tina_Holcomb 1619 45
+ae Rosalba_Ramos 4048 Yolanda_Diez 3750 46
+ae Tina_Holcomb 1619 Deborah_Mayher 2390 47
+ae Tina_Holcomb 1619 Rosalba_Ramos 4048 48
+ae Tina_Holcomb 1619 Tashia_Martin 1026 49
+ae Tina_Holcomb 1619 Yolanda_Diez 3750 50
+ae Tashia_Martin 1026 Mary_Rost 3864 51
+ae Tashia_Martin 1026 Rosalie_Holder 1620 52
+ae Tashia_Martin 1026 Rosalba_Ramos 4048 53
+ae Tashia_Martin 1026 Yolanda_Diez 3750 54
+ae Yolanda_Diez 3750 Mary_Rost 3864 55
+ae Yolanda_Diez 3750 Rosalie_Holder 1620 56
+ae Yolanda_Diez 3750 Elizabeth_Cobb 3799 57
+ae Yolanda_Diez 3750 Tina_Holcomb 1619 58
+ae Mary_Rost 3864 Rosalie_Holder 1620 59
+ae Mary_Rost 3864 Cathy_Andrews 4478 60
+ae Mary_Rost 3864 Tina_Holcomb 1619 61
+ae Mary_Rost 3864 Yolanda_Diez 3750 62
+ae Rosalie_Holder 1620 Mary_Rost 3864 63
+ae Rosalie_Holder 1620 Elizabeth_Cobb 3799 64
+ae Rosalie_Holder 1620 Cathy_Andrews 4478 65
+ae Rosalie_Holder 1620 Yolanda_Diez 3750 66
+ae Elizabeth_Cobb 3799 Rosalie_Holder 1620 67
+ae Elizabeth_Cobb 3799 Cathy_Andrews 4478 68
+ae Elizabeth_Cobb 3799 Pamela_Hardy 2218 69
+ae Cathy_Andrews 4478 Nancy_Moses 1009 70
+ae Cathy_Andrews 4478 Pamela_Hardy 2218 71
+ae Cathy_Andrews 4478 Colleen_Calvo 3667 72
+ae Nancy_Moses 1009 Cathy_Andrews 4478 73
+ae Nancy_Moses 1009 Colleen_Calvo 3667 74
+ae Nancy_Moses 1009 Carol_Dubay 2770 75
+ae Pamela_Hardy 2218 Elizabeth_Cobb 3799 76
+ae Pamela_Hardy 2218 Cathy_Andrews 4478 77
+ae Pamela_Hardy 2218 Nancy_Moses 1009 78
+ae Pamela_Hardy 2218 Colleen_Calvo 3667 79
+ae Colleen_Calvo 3667 Patricia_Fletcher 1599 80
+ae Colleen_Calvo 3667 Pamela_Hardy 2218 81
+ae Colleen_Calvo 3667 Carol_Dubay 2770 82
+ae Carol_Dubay 2770 Susan_Fountain 1071 83
+ae Carol_Dubay 2770 Valda_James 4868 84
+ae Carol_Dubay 2770 Pamela_Hardy 2218 85
+ae Carol_Dubay 2770 Colleen_Calvo 3667 86
+ae Patricia_Fletcher 1599 Valda_James 4868 87
+ae Patricia_Fletcher 1599 Lila_Steele 2440 88
+ae Patricia_Fletcher 1599 Carol_Dubay 2770 89
+ae Susan_Fountain 1071 Patricia_Fletcher 1599 90
+ae Susan_Fountain 1071 Lila_Steele 2440 91
+ae Susan_Fountain 1071 Jennifer_Harris 3407 92
+ae Valda_James 4868 Patricia_Fletcher 1599 93
+ae Valda_James 4868 Susan_Fountain 1071 94
+ae Valda_James 4868 Althea_Pike 3892 95
+ae Valda_James 4868 Carol_Dubay 2770 96
+ae Lila_Steele 2440 Susan_Fountain 1071 97
+ae Lila_Steele 2440 Jennifer_Harris 3407 98
+ae Lila_Steele 2440 Althea_Pike 3892 99
+ae Lila_Steele 2440 Peggy_Ramsey 1181 100
+ae Jennifer_Harris 3407 Susan_Fountain 1071 101
+ae Jennifer_Harris 3407 Peggy_Ramsey 1181 102
+ae Jennifer_Harris 3407 Susan_Teel 1779 103
+ae Althea_Pike 3892 Ruth_Littman 3588 104
+ae Althea_Pike 3892 Peggy_Ramsey 1181 105
+ae Althea_Pike 3892 Susan_Teel 1779 106
+ae Peggy_Ramsey 1181 Lila_Steele 2440 107
+ae Peggy_Ramsey 1181 Jennifer_Harris 3407 108
+ae Peggy_Ramsey 1181 Althea_Pike 3892 109
+ae Susan_Teel 1779 Ruth_Littman 3588 110
+ae Susan_Teel 1779 Barbara_Ayala 2690 111
+ae Susan_Teel 1779 Jennifer_Harris 3407 112
+ae Susan_Teel 1779 Peggy_Ramsey 1181 113
+ae Ruth_Littman 3588 Linda_Wenzel 4320 114
+ae Ruth_Littman 3588 Barbara_Ayala 2690 115
+ae Ruth_Littman 3588 Althea_Pike 3892 116
+ae Ruth_Littman 3588 Susan_Teel 1779 117
+ae Linda_Wenzel 4320 Barbara_Ayala 2690 118
+ae Linda_Wenzel 4320 Ora_Williams 2976 119
+ae Linda_Wenzel 4320 Susan_Teel 1779 120
+ae Barbara_Ayala 2690 Linda_Wenzel 4320 121
+ae Barbara_Ayala 2690 Sarah_Shotwell 2624 122
+ae Barbara_Ayala 2690 Susan_Teel 1779 123
+ae Allison_Pitts 2349 Ruth_Littman 3588 124
+ae Allison_Pitts 2349 Barbara_Ayala 2690 125
+ae Allison_Pitts 2349 Ora_Williams 2976 126
+ae Allison_Pitts 2349 Patty_Swaney 2777 127
+ae Ora_Williams 2976 Linda_Wenzel 4320 128
+ae Ora_Williams 2976 Barbara_Ayala 2690 129
+ae Ora_Williams 2976 Patty_Swaney 2777 130
+ae Ora_Williams 2976 Lillian_Smart 2487 131
+ae Sarah_Shotwell 2624 Barbara_Ayala 2690 132
+ae Sarah_Shotwell 2624 Allison_Pitts 2349 133
+ae Sarah_Shotwell 2624 Ora_Williams 2976 134
+ae Patty_Swaney 2777 Linda_Wenzel 4320 135
+ae Patty_Swaney 2777 Allison_Pitts 2349 136
+ae Patty_Swaney 2777 Sarah_Shotwell 2624 137
+ae Lillian_Smart 2487 Barbara_Ayala 2690 138
+ae Lillian_Smart 2487 Allison_Pitts 2349 139
+ae Lillian_Smart 2487 Patty_Swaney 2777 140
+mst
+# dot mst3
+q 

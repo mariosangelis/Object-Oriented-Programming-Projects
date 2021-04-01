@@ -1,0 +1,43 @@
+av Stephani_Plunk OK
+av Mary_Franks OK
+av Heather_Mills OK
+av Donna_Hesse OK
+av Jennifer_Moore OK
+av Samantha_Bocchi OK
+av Mary_Jastrebski OK
+av Lois_Patterson OK
+av Brandy_Motley OK
+av Nancy_Patterson OK
+av Julie_Norton OK
+ae Stephani_Plunk Mary_Franks OK
+ae Stephani_Plunk Donna_Hesse OK
+ae Mary_Franks Samantha_Bocchi OK
+ae Mary_Franks Mary_Jastrebski OK
+ae Heather_Mills Jennifer_Moore OK
+ae Heather_Mills Mary_Jastrebski OK
+ae Donna_Hesse Stephani_Plunk OK
+ae Donna_Hesse Mary_Jastrebski OK
+ae Jennifer_Moore Donna_Hesse OK
+ae Jennifer_Moore Mary_Jastrebski OK
+ae Samantha_Bocchi Jennifer_Moore OK
+ae Samantha_Bocchi Lois_Patterson OK
+ae Mary_Jastrebski Nancy_Patterson OK
+ae Mary_Jastrebski Donna_Hesse OK
+ae Lois_Patterson Jennifer_Moore OK
+ae Lois_Patterson Samantha_Bocchi OK
+ae Brandy_Motley Heather_Mills OK
+ae Brandy_Motley Mary_Jastrebski OK
+ae Nancy_Patterson Jennifer_Moore OK
+ae Nancy_Patterson Mary_Jastrebski OK
+ae Julie_Norton Mary_Jastrebski OK
+ae Julie_Norton Lois_Patterson OK
+Dijkstra (Heather_Mills - Julie_Norton): 
+Dijkstra (Mary_Jastrebski - Lois_Patterson): Mary_Jastrebski, Donna_Hesse, Stephani_Plunk, Mary_Franks, Samantha_Bocchi, Lois_Patterson
+Dijkstra (Mary_Jastrebski - Nancy_Patterson): Mary_Jastrebski, Nancy_Patterson
+Dijkstra (Julie_Norton - Mary_Jastrebski): Julie_Norton, Mary_Jastrebski
+Dijkstra (Nancy_Patterson - Mary_Franks): Nancy_Patterson, Jennifer_Moore, Donna_Hesse, Stephani_Plunk, Mary_Franks
+Dijkstra (Heather_Mills - Nancy_Patterson): Heather_Mills, Mary_Jastrebski, Nancy_Patterson
+Dijkstra (Stephani_Plunk - Mary_Franks): Stephani_Plunk, Mary_Franks
+Dijkstra (Nancy_Patterson - Jennifer_Moore): Nancy_Patterson, Jennifer_Moore
+Dijkstra (Lois_Patterson - Mary_Jastrebski): Lois_Patterson, Jennifer_Moore, Mary_Jastrebski
+Dijkstra (Donna_Hesse - Brandy_Motley): 

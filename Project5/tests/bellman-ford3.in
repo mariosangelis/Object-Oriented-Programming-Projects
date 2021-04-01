@@ -1,0 +1,20 @@
+digraph
+av Mary
+av John
+av Jim
+av Cloe
+av Beth
+av Joe
+ae Mary Joe 6
+ae Mary John 2
+ae John Jim 7
+ae Jim Cloe -3
+ae Cloe Beth -4
+ae Beth Joe 2
+ae John Cloe 10
+ae Jim Joe 6
+dijkstra Mary Joe
+bellman-ford Mary Joe
+bellman-ford John Joe
+# dot bellman-ford3
+q

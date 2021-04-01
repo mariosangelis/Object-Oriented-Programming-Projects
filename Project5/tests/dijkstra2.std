@@ -1,0 +1,55 @@
+av Patricia OK
+av Rosa OK
+av Yvette OK
+av Herminia OK
+av Joann OK
+av Sherry OK
+av Kathleen OK
+av Melissa OK
+av Lisa OK
+av Brenda OK
+av Kristin OK
+av Maria OK
+ae Patricia Joann OK
+ae Patricia Sherry OK
+ae Patricia Kathleen OK
+ae Rosa Yvette OK
+ae Rosa Herminia OK
+ae Rosa Joann OK
+ae Yvette Lisa OK
+ae Yvette Herminia OK
+ae Yvette Melissa OK
+ae Herminia Patricia OK
+ae Herminia Joann OK
+ae Herminia Kathleen OK
+ae Joann Herminia OK
+ae Joann Sherry OK
+ae Joann Kathleen OK
+ae Sherry Joann OK
+ae Sherry Kathleen OK
+ae Sherry Melissa OK
+ae Kathleen Herminia OK
+ae Kathleen Joann OK
+ae Kathleen Sherry OK
+ae Melissa Brenda OK
+ae Melissa Joann OK
+ae Melissa Sherry OK
+ae Lisa Kristin OK
+ae Lisa Maria OK
+ae Lisa Kathleen OK
+ae Brenda Herminia OK
+ae Brenda Joann OK
+ae Brenda Sherry OK
+ae Kristin Brenda OK
+ae Kristin Sherry OK
+ae Kristin Melissa OK
+ae Maria Brenda OK
+ae Maria Kathleen OK
+ae Maria Melissa OK
+Dijkstra (Brenda - Sherry): Brenda, Sherry
+Dijkstra (Kristin - Joann): Kristin, Melissa, Joann
+Dijkstra (Yvette - Patricia): Yvette, Herminia, Patricia
+Dijkstra (Kristin - Melissa): Kristin, Melissa
+Dijkstra (Rosa - Yvette): Rosa, Yvette
+Dijkstra (Kathleen - Brenda): Kathleen, Sherry, Melissa, Brenda
+Dijkstra (Kathleen - Melissa): Kathleen, Sherry, Melissa

@@ -1,0 +1,30 @@
+digraph
+av alpha
+av beta
+av gamma
+av delta
+av epsilon
+av zeta
+av theta
+av kappa
+av lamda
+ae alpha beta 6
+ae alpha lamda 3
+ae beta gamma 3
+ae beta delta 4
+ae gamma epsilon 6
+ae delta zeta 3
+ae delta kappa 2
+ae epsilon zeta 2
+ae epsilon theta 8
+ae zeta theta 9
+ae zeta kappa 2
+ae lamda kappa  10
+ae lamda beta 2
+ae theta gamma -15
+dot out_g06.dot
+bfs alpha
+dfs alpha
+dijkstra alpha theta
+bellman-ford alpha theta
+q

@@ -1,0 +1,114 @@
+graph
+av Paula
+av Rita
+av Sonja
+av Melissa
+av Joyce
+av Lisa
+av Dolores
+av Kimberly
+av Carmen
+av Barbara
+av Maggie
+av Krista
+av Abby
+av Christina
+av Terry
+av Gina
+av Joanne
+av Lydia
+av Alexis
+av Jessica
+av Margaret
+av Leigh
+av Anna
+av Linda
+av Beverly
+av Cathy
+av Christine
+av Mary
+av Crystal
+av Janice
+ae Paula Joyce 2
+ae Paula Lisa 3
+ae Paula Dolores 4
+ae Rita Melissa 5
+ae Rita Joyce 6
+ae Rita Dolores 7
+ae Sonja Carmen 8
+ae Sonja Joyce 9
+ae Sonja Dolores 10
+ae Melissa Rita 11
+ae Melissa Joyce 12
+ae Melissa Lisa 13
+ae Joyce Melissa 14
+ae Joyce Lisa 15
+ae Lisa Sonja 16
+ae Lisa Kimberly 17
+ae Dolores Carmen 18
+ae Dolores Barbara 19
+ae Kimberly Carmen 20
+ae Kimberly Barbara 21
+ae Kimberly Maggie 22
+ae Carmen Maggie 23
+ae Carmen Lisa 24
+ae Carmen Kimberly 25
+ae Barbara Krista 26
+ae Barbara Abby 27
+ae Barbara Dolores 28
+ae Maggie Abby 29
+ae Maggie Kimberly 30
+ae Krista Carmen 31
+ae Krista Maggie 32
+ae Krista Abby 33
+ae Abby Barbara 34
+ae Abby Krista 35
+ae Abby Terry 36
+ae Christina Maggie 37
+ae Christina Krista 38
+ae Christina Gina 39
+ae Terry Joanne 40
+ae Terry Krista 41
+ae Terry Gina 42
+ae Gina Lydia 43
+ae Gina Alexis 44
+ae Gina Christina 45
+ae Joanne Alexis 46
+ae Joanne Gina 47
+ae Lydia Joanne 48
+ae Lydia Alexis 49
+ae Alexis Joanne 50
+ae Alexis Jessica 51
+ae Alexis Leigh 52
+ae Jessica Lydia 53
+ae Jessica Margaret 54
+ae Jessica Anna 55
+ae Margaret Lydia 56
+ae Margaret Leigh 57
+ae Margaret Linda 58
+ae Leigh Margaret 59
+ae Leigh Anna 60
+ae Leigh Linda 61
+ae Anna Jessica 62
+ae Anna Linda 63
+ae Linda Beverly 64
+ae Linda Cathy 65
+ae Linda Margaret 66
+ae Beverly Christine 67
+ae Beverly Mary 68
+ae Cathy Beverly 69
+ae Cathy Anna 70
+ae Cathy Linda 71
+ae Christine Beverly 72
+ae Christine Mary 73
+ae Christine Crystal 74
+ae Mary Beverly 75
+ae Mary Christine 76
+ae Mary Linda 77
+ae Crystal Beverly 78
+ae Crystal Anna 79
+ae Janice Cathy 80
+ae Janice Crystal 81
+mst
+# dot mst2
+q 

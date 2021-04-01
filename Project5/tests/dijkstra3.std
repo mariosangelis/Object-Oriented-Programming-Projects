@@ -1,0 +1,72 @@
+av Martha OK
+av Mary OK
+av Sarah OK
+av Kimberly OK
+av Elissa OK
+av Francis OK
+av Barbara OK
+av Yulanda OK
+av Sherry OK
+av Lindsay OK
+av Wanda OK
+av Robbin OK
+av Evelyn OK
+av Katrina OK
+av Katharine OK
+av Lee OK
+av Carman OK
+av Cleo OK
+ae Martha Sarah OK
+ae Martha Elissa OK
+ae Martha Francis OK
+ae Mary Elissa OK
+ae Mary Yulanda OK
+ae Sarah Sherry OK
+ae Sarah Yulanda OK
+ae Kimberly Francis OK
+ae Kimberly Barbara OK
+ae Elissa Sarah OK
+ae Elissa Barbara OK
+ae Elissa Yulanda OK
+ae Francis Sarah OK
+ae Francis Elissa OK
+ae Francis Barbara OK
+ae Barbara Sherry OK
+ae Barbara Kimberly NOK
+ae Yulanda Wanda OK
+ae Yulanda Elissa NOK
+ae Yulanda Francis OK
+ae Sherry Wanda OK
+ae Sherry Barbara NOK
+ae Lindsay Sherry OK
+ae Lindsay Evelyn OK
+ae Wanda Sherry NOK
+ae Wanda Robbin OK
+ae Robbin Wanda NOK
+ae Robbin Evelyn OK
+ae Robbin Katharine OK
+ae Evelyn Lindsay NOK
+ae Evelyn Katharine OK
+ae Katrina Robbin OK
+ae Katrina Lee OK
+ae Katharine Carman OK
+ae Katharine Robbin NOK
+ae Katharine Evelyn NOK
+ae Lee Lindsay OK
+ae Lee Robbin OK
+ae Lee Katharine OK
+ae Carman Katharine NOK
+ae Carman Lee OK
+ae Cleo Carman OK
+ae Cleo Evelyn OK
+Dijkstra (Robbin - Kimberly): Robbin, Wanda, Yulanda, Francis, Kimberly
+Dijkstra (Lindsay - Katharine): Lindsay, Evelyn, Katharine
+Dijkstra (Mary - Katrina): Mary, Yulanda, Wanda, Robbin, Katrina
+Dijkstra (Evelyn - Francis): Evelyn, Lindsay, Sherry, Sarah, Francis
+Dijkstra (Martha - Mary): Martha, Elissa, Mary
+Dijkstra (Katrina - Katharine): Katrina, Robbin, Katharine
+Dijkstra (Kimberly - Lee): Kimberly, Barbara, Sherry, Lindsay, Lee
+Dijkstra (Carman - Sarah): Carman, Katharine, Robbin, Wanda, Yulanda, Sarah
+Dijkstra (Evelyn - Yulanda): Evelyn, Robbin, Wanda, Yulanda
+Dijkstra (Martha - Lee): Martha, Sarah, Yulanda, Wanda, Robbin, Katrina, Lee
+Dijkstra (Cleo - Mary): Cleo, Carman, Katharine, Robbin, Wanda, Yulanda, Mary

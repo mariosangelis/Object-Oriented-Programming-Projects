@@ -1,0 +1,17 @@
+av Mary OK
+av John OK
+av Jim OK
+av Cloe OK
+av Beth OK
+av Joe OK
+ae Mary Joe OK
+ae Mary John OK
+ae John Jim OK
+ae Jim Cloe OK
+ae Cloe Beth OK
+ae Beth Joe OK
+ae John Cloe OK
+ae Jim Joe OK
+Dijkstra (Mary - Joe): Mary, Joe
+Bellman-Ford (Mary - Joe): Mary, John, Jim, Cloe, Beth, Joe
+Bellman-Ford (John - Joe): John, Jim, Cloe, Beth, Joe

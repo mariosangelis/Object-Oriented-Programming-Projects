@@ -1,0 +1,60 @@
+digraph
+av alpha
+av beta
+av gamma
+av delta
+av epsilon
+av theta
+av kappa
+av lamda
+av sigma
+av omega
+ae alpha beta 2
+ae alpha gamma 4
+ae beta gamma 8
+ae beta epsilon 3
+ae beta kappa 6
+ae gamma epsilon 9
+ae gamma kappa 5
+ae gamma lamda 3
+ae delta epsilon 3
+ae delta omega 8
+ae delta lamda 5
+ae epsilon alpha 3
+ae epsilon beta 2
+ae epsilon sigma 5
+ae theta epsilon 1
+ae theta alpha 3
+ae theta beta 3
+ae kappa theta 3
+ae kappa gamma 2
+ae kappa lamda 8
+ae lamda beta 4
+ae lamda alpha 5
+ae lamda omega 7
+ae sigma alpha 8
+ae sigma beta 3
+ae sigma kappa 12
+ae omega alpha 4
+ae omega beta 8
+ae omega lamda 3
+dot out1.dot
+rv omega
+dot out2.dot
+rv kappa
+dot out3.dot
+rv alpha
+dot out4.dot
+rv beta
+dot out5.dot
+rv gamma
+dot out6.dot
+rv delta
+dot out7.dot
+rv epsilon
+dot out8.dot
+rv theta
+dot out9.dot
+rv sigma
+dot out10.dot
+q

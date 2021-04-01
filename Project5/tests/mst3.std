@@ -1,0 +1,221 @@
+av Kathleen_Maxwell OK
+av Ada_Wachter OK
+av Lana_Lee OK
+av Anna_Deer OK
+av Guadalupe_Price OK
+av Susan_Simpson OK
+av Carolyn_Williams OK
+av Susan_Greene OK
+av Lillian_Ryan OK
+av Lorraine_Amadon OK
+av Deborah_Mayher OK
+av Lori_Carr OK
+av Rosalba_Ramos OK
+av Tina_Holcomb OK
+av Tashia_Martin OK
+av Yolanda_Diez OK
+av Mary_Rost OK
+av Rosalie_Holder OK
+av Elizabeth_Cobb OK
+av Cathy_Andrews OK
+av Nancy_Moses OK
+av Pamela_Hardy OK
+av Colleen_Calvo OK
+av Carol_Dubay OK
+av Patricia_Fletcher OK
+av Susan_Fountain OK
+av Valda_James OK
+av Lila_Steele OK
+av Jennifer_Harris OK
+av Althea_Pike OK
+av Peggy_Ramsey OK
+av Susan_Teel OK
+av Ruth_Littman OK
+av Linda_Wenzel OK
+av Barbara_Ayala OK
+av Allison_Pitts OK
+av Ora_Williams OK
+av Sarah_Shotwell OK
+av Patty_Swaney OK
+av Lillian_Smart OK
+ae Kathleen_Maxwell Anna_Deer OK
+ae Kathleen_Maxwell Guadalupe_Price OK
+ae Kathleen_Maxwell Susan_Simpson OK
+ae Kathleen_Maxwell Carolyn_Williams OK
+ae Ada_Wachter Anna_Deer OK
+ae Ada_Wachter Guadalupe_Price OK
+ae Ada_Wachter Susan_Simpson OK
+ae Ada_Wachter Carolyn_Williams OK
+ae Lana_Lee Anna_Deer OK
+ae Lana_Lee Susan_Simpson OK
+ae Lana_Lee Carolyn_Williams OK
+ae Lana_Lee Susan_Greene OK
+ae Anna_Deer Ada_Wachter NOK
+ae Anna_Deer Lana_Lee NOK
+ae Anna_Deer Guadalupe_Price OK
+ae Guadalupe_Price Lana_Lee OK
+ae Guadalupe_Price Susan_Simpson OK
+ae Guadalupe_Price Carolyn_Williams OK
+ae Susan_Simpson Lillian_Ryan OK
+ae Susan_Simpson Guadalupe_Price NOK
+ae Susan_Simpson Carolyn_Williams OK
+ae Susan_Simpson Susan_Greene OK
+ae Carolyn_Williams Lillian_Ryan OK
+ae Carolyn_Williams Lorraine_Amadon OK
+ae Carolyn_Williams Susan_Simpson NOK
+ae Susan_Greene Lorraine_Amadon OK
+ae Susan_Greene Deborah_Mayher OK
+ae Susan_Greene Guadalupe_Price OK
+ae Lillian_Ryan Lorraine_Amadon OK
+ae Lillian_Ryan Deborah_Mayher OK
+ae Lillian_Ryan Susan_Simpson NOK
+ae Lillian_Ryan Susan_Greene OK
+ae Lorraine_Amadon Lillian_Ryan NOK
+ae Lorraine_Amadon Lori_Carr OK
+ae Lorraine_Amadon Carolyn_Williams NOK
+ae Lorraine_Amadon Susan_Greene NOK
+ae Deborah_Mayher Lorraine_Amadon OK
+ae Deborah_Mayher Lori_Carr OK
+ae Deborah_Mayher Susan_Greene NOK
+ae Lori_Carr Lorraine_Amadon NOK
+ae Lori_Carr Deborah_Mayher NOK
+ae Lori_Carr Tina_Holcomb OK
+ae Rosalba_Ramos Deborah_Mayher OK
+ae Rosalba_Ramos Tina_Holcomb OK
+ae Rosalba_Ramos Yolanda_Diez OK
+ae Tina_Holcomb Deborah_Mayher OK
+ae Tina_Holcomb Rosalba_Ramos NOK
+ae Tina_Holcomb Tashia_Martin OK
+ae Tina_Holcomb Yolanda_Diez OK
+ae Tashia_Martin Mary_Rost OK
+ae Tashia_Martin Rosalie_Holder OK
+ae Tashia_Martin Rosalba_Ramos OK
+ae Tashia_Martin Yolanda_Diez OK
+ae Yolanda_Diez Mary_Rost OK
+ae Yolanda_Diez Rosalie_Holder OK
+ae Yolanda_Diez Elizabeth_Cobb OK
+ae Yolanda_Diez Tina_Holcomb NOK
+ae Mary_Rost Rosalie_Holder OK
+ae Mary_Rost Cathy_Andrews OK
+ae Mary_Rost Tina_Holcomb OK
+ae Mary_Rost Yolanda_Diez NOK
+ae Rosalie_Holder Mary_Rost NOK
+ae Rosalie_Holder Elizabeth_Cobb OK
+ae Rosalie_Holder Cathy_Andrews OK
+ae Rosalie_Holder Yolanda_Diez NOK
+ae Elizabeth_Cobb Rosalie_Holder NOK
+ae Elizabeth_Cobb Cathy_Andrews OK
+ae Elizabeth_Cobb Pamela_Hardy OK
+ae Cathy_Andrews Nancy_Moses OK
+ae Cathy_Andrews Pamela_Hardy OK
+ae Cathy_Andrews Colleen_Calvo OK
+ae Nancy_Moses Cathy_Andrews NOK
+ae Nancy_Moses Colleen_Calvo OK
+ae Nancy_Moses Carol_Dubay OK
+ae Pamela_Hardy Elizabeth_Cobb NOK
+ae Pamela_Hardy Cathy_Andrews NOK
+ae Pamela_Hardy Nancy_Moses OK
+ae Pamela_Hardy Colleen_Calvo OK
+ae Colleen_Calvo Patricia_Fletcher OK
+ae Colleen_Calvo Pamela_Hardy NOK
+ae Colleen_Calvo Carol_Dubay OK
+ae Carol_Dubay Susan_Fountain OK
+ae Carol_Dubay Valda_James OK
+ae Carol_Dubay Pamela_Hardy OK
+ae Carol_Dubay Colleen_Calvo NOK
+ae Patricia_Fletcher Valda_James OK
+ae Patricia_Fletcher Lila_Steele OK
+ae Patricia_Fletcher Carol_Dubay OK
+ae Susan_Fountain Patricia_Fletcher OK
+ae Susan_Fountain Lila_Steele OK
+ae Susan_Fountain Jennifer_Harris OK
+ae Valda_James Patricia_Fletcher NOK
+ae Valda_James Susan_Fountain OK
+ae Valda_James Althea_Pike OK
+ae Valda_James Carol_Dubay NOK
+ae Lila_Steele Susan_Fountain NOK
+ae Lila_Steele Jennifer_Harris OK
+ae Lila_Steele Althea_Pike OK
+ae Lila_Steele Peggy_Ramsey OK
+ae Jennifer_Harris Susan_Fountain NOK
+ae Jennifer_Harris Peggy_Ramsey OK
+ae Jennifer_Harris Susan_Teel OK
+ae Althea_Pike Ruth_Littman OK
+ae Althea_Pike Peggy_Ramsey OK
+ae Althea_Pike Susan_Teel OK
+ae Peggy_Ramsey Lila_Steele NOK
+ae Peggy_Ramsey Jennifer_Harris NOK
+ae Peggy_Ramsey Althea_Pike NOK
+ae Susan_Teel Ruth_Littman OK
+ae Susan_Teel Barbara_Ayala OK
+ae Susan_Teel Jennifer_Harris NOK
+ae Susan_Teel Peggy_Ramsey OK
+ae Ruth_Littman Linda_Wenzel OK
+ae Ruth_Littman Barbara_Ayala OK
+ae Ruth_Littman Althea_Pike NOK
+ae Ruth_Littman Susan_Teel NOK
+ae Linda_Wenzel Barbara_Ayala OK
+ae Linda_Wenzel Ora_Williams OK
+ae Linda_Wenzel Susan_Teel OK
+ae Barbara_Ayala Linda_Wenzel NOK
+ae Barbara_Ayala Sarah_Shotwell OK
+ae Barbara_Ayala Susan_Teel NOK
+ae Allison_Pitts Ruth_Littman OK
+ae Allison_Pitts Barbara_Ayala OK
+ae Allison_Pitts Ora_Williams OK
+ae Allison_Pitts Patty_Swaney OK
+ae Ora_Williams Linda_Wenzel NOK
+ae Ora_Williams Barbara_Ayala OK
+ae Ora_Williams Patty_Swaney OK
+ae Ora_Williams Lillian_Smart OK
+ae Sarah_Shotwell Barbara_Ayala NOK
+ae Sarah_Shotwell Allison_Pitts OK
+ae Sarah_Shotwell Ora_Williams OK
+ae Patty_Swaney Linda_Wenzel OK
+ae Patty_Swaney Allison_Pitts NOK
+ae Patty_Swaney Sarah_Shotwell OK
+ae Lillian_Smart Barbara_Ayala OK
+ae Lillian_Smart Allison_Pitts OK
+ae Lillian_Smart Patty_Swaney OK
+
+--- Min Spanning Tree ---
+Kathleen_Maxwell -- Anna_Deer (2)
+Kathleen_Maxwell -- Guadalupe_Price (3)
+Kathleen_Maxwell -- Susan_Simpson (4)
+Kathleen_Maxwell -- Carolyn_Williams (5)
+Ada_Wachter -- Anna_Deer (6)
+Lana_Lee -- Anna_Deer (10)
+Lana_Lee -- Susan_Greene (13)
+Susan_Simpson -- Lillian_Ryan (20)
+Carolyn_Williams -- Lorraine_Amadon (25)
+Susan_Greene -- Deborah_Mayher (28)
+Lorraine_Amadon -- Lori_Carr (35)
+Lori_Carr -- Tina_Holcomb (43)
+Deborah_Mayher -- Rosalba_Ramos (44)
+Rosalba_Ramos -- Yolanda_Diez (46)
+Tina_Holcomb -- Tashia_Martin (49)
+Tashia_Martin -- Mary_Rost (51)
+Tashia_Martin -- Rosalie_Holder (52)
+Yolanda_Diez -- Elizabeth_Cobb (57)
+Mary_Rost -- Cathy_Andrews (60)
+Elizabeth_Cobb -- Pamela_Hardy (69)
+Cathy_Andrews -- Nancy_Moses (70)
+Cathy_Andrews -- Colleen_Calvo (72)
+Nancy_Moses -- Carol_Dubay (75)
+Colleen_Calvo -- Patricia_Fletcher (80)
+Carol_Dubay -- Susan_Fountain (83)
+Carol_Dubay -- Valda_James (84)
+Patricia_Fletcher -- Lila_Steele (88)
+Susan_Fountain -- Jennifer_Harris (92)
+Valda_James -- Althea_Pike (95)
+Lila_Steele -- Peggy_Ramsey (100)
+Jennifer_Harris -- Susan_Teel (103)
+Althea_Pike -- Ruth_Littman (104)
+Susan_Teel -- Barbara_Ayala (111)
+Ruth_Littman -- Linda_Wenzel (114)
+Linda_Wenzel -- Ora_Williams (119)
+Barbara_Ayala -- Sarah_Shotwell (122)
+Ruth_Littman -- Allison_Pitts (124)
+Allison_Pitts -- Patty_Swaney (127)
+Ora_Williams -- Lillian_Smart (131)
+MST Cost: 2516

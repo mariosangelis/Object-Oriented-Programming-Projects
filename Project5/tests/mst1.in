@@ -1,0 +1,40 @@
+graph
+# graph03
+av alpha
+av beta
+av gamma
+av delta
+av epsilon
+av zeta
+av theta
+av kappa
+av lamda
+av iota
+av sigma
+av ypsilon
+av omega
+ae alpha beta 7
+ae alpha lamda 6
+ae beta gamma 8
+ae beta delta 4
+ae gamma epsilon 9
+ae delta zeta 8
+ae delta kappa -4
+ae epsilon zeta 2
+ae epsilon theta 8
+ae zeta theta 10
+ae theta iota -5
+ae theta sigma 1
+ae theta omega 10
+ae iota kappa -3
+ae iota ypsilon -1
+ae ypsilon omega -2
+ae sigma ypsilon 2
+ae omega sigma 2
+ae omega epsilon 7
+ae kappa zeta 3
+ae lamda kappa 10
+ae lamda beta 5
+mst
+# dot mst1
+q

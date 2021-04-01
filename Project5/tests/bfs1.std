@@ -1,0 +1,47 @@
+av alpha OK
+av beta OK
+av gamma OK
+av delta OK
+av epsilon OK
+av zeta OK
+av theta OK
+av kappa OK
+av lamda OK
+av iota OK
+av sigma OK
+av ypsilon OK
+av omega OK
+ae alpha beta OK
+ae alpha lamda OK
+ae beta gamma OK
+ae beta delta OK
+ae gamma epsilon OK
+ae delta zeta OK
+ae delta kappa OK
+ae epsilon zeta OK
+ae epsilon theta OK
+ae zeta theta OK
+ae theta iota OK
+ae theta sigma OK
+ae theta omega OK
+ae iota kappa OK
+ae iota ypsilon OK
+ae ypsilon omega OK
+ae sigma ypsilon OK
+ae omega sigma OK
+ae omega epsilon OK
+ae kappa zeta OK
+ae lamda kappa OK
+ae lamda beta OK
+
+----- BFS Traversal -----
+alpha -> beta -> lamda -> gamma -> delta -> kappa -> epsilon -> zeta -> iota -> theta -> omega -> ypsilon -> sigma
+-------------------------
+
+----- BFS Traversal -----
+delta -> beta -> zeta -> kappa -> alpha -> gamma -> lamda -> epsilon -> theta -> iota -> omega -> sigma -> ypsilon
+-------------------------
+
+----- BFS Traversal -----
+sigma -> theta -> ypsilon -> omega -> epsilon -> zeta -> iota -> gamma -> delta -> kappa -> beta -> lamda -> alpha
+-------------------------

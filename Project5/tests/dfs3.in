@@ -1,0 +1,127 @@
+digraph
+av Joy
+av Betty
+av Sheila
+av Anna
+av Mary
+av Ming
+av Yelena
+av Nellie
+av Linda
+av Felicia
+av Joyce
+av Martha
+av Tonya
+av Irma
+av Jewel
+av Ashley
+av Judith
+av Nora
+av Dorothy
+av Jasmine
+av Michelle
+av Carolyn
+av Kathy
+av Julie
+av Frances
+av Nancy
+av Jan
+av Peggy
+av Minnie
+av Sherry
+ae Joy Anna 12
+ae Joy Mary 12
+ae Joy Ming 1
+ae Betty Ming 6
+ae Betty Yelena 12
+ae Betty Nellie 6
+ae Sheila Mary 6
+ae Sheila Ming 7
+ae Sheila Nellie 12
+ae Anna Sheila 11
+ae Anna Mary 11
+ae Anna Yelena 8
+ae Mary Sheila 10
+ae Mary Ming 3
+ae Mary Yelena 9
+ae Ming Sheila 7
+ae Ming Yelena 11
+ae Ming Nellie 8
+ae Yelena Mary 3
+ae Yelena Ming 3
+ae Yelena Nellie 4
+ae Nellie Linda 1
+ae Nellie Felicia 12
+ae Nellie Mary 4
+ae Linda Joyce 6
+ae Linda Martha 6
+ae Linda Yelena 5
+ae Felicia Linda 9
+ae Felicia Martha 4
+ae Felicia Tonya 8
+ae Joyce Felicia 7
+ae Joyce Martha 8
+ae Joyce Tonya 6
+ae Martha Linda 4
+ae Martha Joyce 10
+ae Martha Irma 11
+ae Tonya Felicia 3
+ae Tonya Jewel 2
+ae Tonya Ashley 9
+ae Irma Joyce 9
+ae Irma Tonya 9
+ae Irma Jewel 4
+ae Jewel Judith 7
+ae Jewel Martha 4
+ae Jewel Irma 5
+ae Ashley Nora 12
+ae Ashley Irma 6
+ae Ashley Jewel 12
+ae Judith Dorothy 4
+ae Judith Irma 1
+ae Judith Jewel 6
+ae Nora Judith 9
+ae Nora Dorothy 4
+ae Nora Jasmine 3
+ae Dorothy Nora 2
+ae Dorothy Michelle 7
+ae Dorothy Ashley 11
+ae Jasmine Nora 11
+ae Jasmine Carolyn 2
+ae Jasmine Kathy 9
+ae Michelle Dorothy 10
+ae Michelle Jasmine 7
+ae Michelle Carolyn 2
+ae Carolyn Dorothy 2
+ae Carolyn Michelle 11
+ae Carolyn Julie 10
+ae Kathy Nancy 7
+ae Kathy Carolyn 1
+ae Kathy Julie 5
+ae Julie Frances 5
+ae Julie Nancy 3
+ae Julie Carolyn 11
+ae Frances Nancy 4
+ae Frances Kathy 5
+ae Frances Julie 11
+ae Nancy Jan 2
+ae Nancy Peggy 11
+ae Nancy Minnie 4
+ae Jan Peggy 7
+ae Jan Sherry 9
+ae Jan Julie 1
+ae Peggy Frances 7
+ae Peggy Nancy 4
+ae Peggy Julie 12
+ae Minnie Frances 8
+ae Minnie Nancy 11
+ae Minnie Jan 2
+ae Sherry Jan 2
+ae Sherry Peggy 1
+ae Sherry Minnie 3
+dfs Nora
+dfs Nancy
+dfs Mary
+dfs Joyce
+# dot dfs3
+q 

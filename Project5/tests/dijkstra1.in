@@ -1,0 +1,46 @@
+digraph
+# graph04
+av alpha
+av beta
+av gamma
+av delta
+av epsilon
+av zeta
+av theta
+av kappa
+av lamda
+av iota
+av sigma
+av ypsilon
+av omega
+ae alpha beta 6
+ae alpha lamda 3
+ae beta gamma 3
+ae beta delta 4
+ae gamma epsilon 6
+ae delta zeta 5
+ae delta kappa 2
+ae epsilon zeta 2
+ae epsilon theta 8
+ae zeta theta 10
+ae theta iota 5
+ae theta sigma 1
+ae theta omega 10
+ae iota kappa 1
+ae iota ypsilon 2
+ae ypsilon omega 3
+ae sigma ypsilon 3
+ae ypsilon omega 3
+ae omega sigma 2
+ae omega epsilon 2
+ae kappa zeta 2
+ae kappa iota 5
+ae lamda kappa  10
+ae lamda beta 2
+dijkstra alpha omega
+dijkstra alpha zeta
+dijkstra omega alpha
+dijkstra iota gamma
+dijkstra gamma iota
+# dot dijkstra1
+q

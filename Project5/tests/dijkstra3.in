@@ -1,0 +1,75 @@
+graph
+av Martha
+av Mary
+av Sarah
+av Kimberly
+av Elissa
+av Francis
+av Barbara
+av Yulanda
+av Sherry
+av Lindsay
+av Wanda
+av Robbin
+av Evelyn
+av Katrina
+av Katharine
+av Lee
+av Carman
+av Cleo
+ae Martha Sarah 3
+ae Martha Elissa 2
+ae Martha Francis 10
+ae Mary Elissa 3
+ae Mary Yulanda 8
+ae Sarah Sherry 8
+ae Sarah Yulanda 5
+ae Kimberly Francis 11
+ae Kimberly Barbara 6
+ae Elissa Sarah 6
+ae Elissa Barbara 7
+ae Elissa Yulanda 10
+ae Francis Sarah 5
+ae Francis Elissa 6
+ae Francis Barbara 9
+ae Barbara Sherry 6
+ae Barbara Kimberly 6
+ae Yulanda Wanda 1
+ae Yulanda Elissa 4
+ae Yulanda Francis 10
+ae Sherry Wanda 10
+ae Sherry Barbara 12
+ae Lindsay Sherry 7
+ae Lindsay Evelyn 2
+ae Wanda Sherry 5
+ae Wanda Robbin 5
+ae Robbin Wanda 9
+ae Robbin Evelyn 11
+ae Robbin Katharine 5
+ae Evelyn Lindsay 12
+ae Evelyn Katharine 7
+ae Katrina Robbin 1
+ae Katrina Lee 1
+ae Katharine Carman 8
+ae Katharine Robbin 8
+ae Katharine Evelyn 8
+ae Lee Lindsay 7
+ae Lee Robbin 4
+ae Lee Katharine 5
+ae Carman Katharine 6
+ae Carman Lee 11
+ae Cleo Carman 4
+ae Cleo Evelyn 7
+dijkstra Robbin Kimberly
+dijkstra Lindsay Katharine
+dijkstra Mary Katrina
+dijkstra Evelyn Francis
+dijkstra Martha Mary
+dijkstra Katrina Katharine
+dijkstra Kimberly Lee
+dijkstra Carman Sarah
+dijkstra Evelyn Yulanda
+dijkstra Martha Lee
+dijkstra Cleo Mary
+# dot dijkstra3
+q 

@@ -1,0 +1,58 @@
+digraph
+av Patricia
+av Rosa
+av Yvette
+av Herminia
+av Joann
+av Sherry
+av Kathleen
+av Melissa
+av Lisa
+av Brenda
+av Kristin
+av Maria
+ae Patricia Joann 4
+ae Patricia Sherry 9
+ae Patricia Kathleen 9
+ae Rosa Yvette 5
+ae Rosa Herminia 6
+ae Rosa Joann 11
+ae Yvette Lisa 5
+ae Yvette Herminia 8
+ae Yvette Melissa 4
+ae Herminia Patricia 4
+ae Herminia Joann 4
+ae Herminia Kathleen 11
+ae Joann Herminia 11
+ae Joann Sherry 5
+ae Joann Kathleen 1
+ae Sherry Joann 7
+ae Sherry Kathleen 7
+ae Sherry Melissa 2
+ae Kathleen Herminia 10
+ae Kathleen Joann 3
+ae Kathleen Sherry 5
+ae Melissa Brenda 6
+ae Melissa Joann 3
+ae Melissa Sherry 4
+ae Lisa Kristin 6
+ae Lisa Maria 11
+ae Lisa Kathleen 4
+ae Brenda Herminia 7
+ae Brenda Joann 12
+ae Brenda Sherry 12
+ae Kristin Brenda 4
+ae Kristin Sherry 11
+ae Kristin Melissa 5
+ae Maria Brenda 11
+ae Maria Kathleen 2
+ae Maria Melissa 11
+dijkstra Brenda Sherry
+dijkstra Kristin Joann
+dijkstra Yvette Patricia
+dijkstra Kristin Melissa
+dijkstra Rosa Yvette
+dijkstra Kathleen Brenda
+dijkstra Kathleen Melissa
+# dot dijkstra2
+q 
