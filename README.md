@@ -1,7 +1,7 @@
 # Object-Oriented-Programming
 
-# Project1:
-Trie data structure implementation. (in Java)
+#### Project1:
+>  Trie data structure implementation. (in Java)
 
 Project2
 Image processing application.       (in Java)
