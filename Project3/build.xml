@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="HW3" default="compile" basedir=".">
+    <description>Builds, tests, and runs the project HW3.</description>
+    
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="./build"/>
+        <javac srcdir="./src" destdir="./build"/>
+    </target>
+
+    <target name="jar">
+        <jar destfile="HW3.jar" basedir="build/">
+            <manifest>
+                <attribute name="Main-Class" value="hw3.HW3"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run">
+        <java jar="HW3.jar" fork="true"/>
+    </target>
+
+</project>
